@@ -17,7 +17,7 @@ Um script simples para realizar parsing no código HTML dos sites.
 1. **Clone o repositório:**
 
     ```bash
-    git clone (https://github.com/edunando/ParsingHTML.git)
+    git clone https://github.com/edunando/ParsingHTML.git
     ```
 
 ## ▶️ Uso
