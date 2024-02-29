@@ -33,4 +33,4 @@ Execute o script `parsing.sh` para realizar o parsing em uma URL.:
 
 ## 🤝 Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests :D.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
